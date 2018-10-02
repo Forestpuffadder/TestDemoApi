@@ -1,0 +1,14 @@
+D:\yproject\testapi\bin\Debug\netcoreapp2.2\testapi.deps.json
+D:\yproject\testapi\bin\Debug\netcoreapp2.2\testapi.runtimeconfig.json
+D:\yproject\testapi\bin\Debug\netcoreapp2.2\testapi.runtimeconfig.dev.json
+D:\yproject\testapi\bin\Debug\netcoreapp2.2\testapi.dll
+D:\yproject\testapi\bin\Debug\netcoreapp2.2\testapi.pdb
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.csprojAssemblyReference.cache
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.csproj.CoreCompileInputs.cache
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.RazorAssemblyInfo.cache
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.RazorAssemblyInfo.cs
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.AssemblyInfoInputs.cache
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.AssemblyInfo.cs
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.RazorTargetAssemblyInfo.cache
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.dll
+D:\yproject\testapi\obj\Debug\netcoreapp2.2\testapi.pdb
