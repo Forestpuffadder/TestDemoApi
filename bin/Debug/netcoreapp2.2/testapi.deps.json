@@ -26,6 +26,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0-preview2-35157",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0-preview2-35157",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.0-preview2-35157",
           "Microsoft.EntityFrameworkCore.Tools.DotNet": "2.0.3",
           "Microsoft.NETCore.App": "2.2.0-preview2-26905-02"
         },
